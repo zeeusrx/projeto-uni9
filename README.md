@@ -5,7 +5,7 @@
 * Período: *Noturno*
 
 ## Integrantes
-| RA   | NOME COMPLETO | CURSO | TURMA |
+| NOME COMPLETO   | R.A | CURSO ADS |
 |------|---------------|-------|-------|
 Lucas campos silva  - R.A 3020103477
 Cleber José Lacerda dos Santos - R.A 3020110612
